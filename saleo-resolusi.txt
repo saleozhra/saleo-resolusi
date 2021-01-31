@@ -1,8 +1,9 @@
 RESOLUSI SALEO 2021
 
--konsisten membuat projek
+
 -membuat portofolio
 -membuat daftar login siswa
 -membuat projek menggunakan php
 -membuat projek python
+-membuat forum diskusi
 
