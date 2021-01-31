@@ -1,0 +1,9 @@
+Rencana belajar 
+-python
+-html
+-css layouting
+-bootsrap
+-laravel
+-php dasar
+-api
+-javascript
