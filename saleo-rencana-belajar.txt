@@ -1,14 +1,12 @@
 Rencana belajar 
 -python
-  projek baru
-  mengoneksikan ke mysql
+  ^flask
+  ^mengoneksikan ke mysql
 -html
--css layouting
-  css dasar
+-css dasar
   css3
 -bootsrap
   versi 3,4,5
 -laravel
 -php dasar
--api
 -javascript
