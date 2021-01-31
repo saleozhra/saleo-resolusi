@@ -3,12 +3,11 @@ Rencana belajar
   projek baru
   mengoneksikan ke mysql
 -html
--css layouting
-  css dasar
-  css3
+-css dasar
+--css layouting
 -bootsrap
-  versi 3,4,5
--laravel
+-php dasar
+ ^laravel
 -php dasar
 -api
 -javascript
