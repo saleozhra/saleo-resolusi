@@ -1,6 +1,7 @@
 Rencana belajar 
 -python
   projek baru
+  mengoneksikan ke mysql
 -html
 -css layouting
   css dasar
